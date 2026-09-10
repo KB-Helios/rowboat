@@ -28,7 +28,7 @@ packageExtensions:
       vscode-jsonrpc: '*'
 
 catalog:
-  vitest: 4.1.7
+  vitest: 4.1.11
 
 onlyBuiltDependencies:
   - baileys
